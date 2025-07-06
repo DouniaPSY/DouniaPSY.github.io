@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Visual Mental Imaginery"
+date:   2025-07-04 19:32:12 +0000
+categories: visual imaginery
+---
+![BrainImaginery](/afantasia.png)
+
+
+Batteria per l’immaginazione e la percezione visiva
+
+Una nuova batteria per valutare la capacità di generare immagini mentali in diversi ambiti
+[[Link](https://visual-imagination.github.io/imagery/games/Games-BIP2-en/)]
+
+Lo sapevi? Circa il 2-3% della popolazione non è in grado di immaginare mentalmente. Sì, davvero! Non riuscirebbe nemmeno a visualizzare il volto del proprio partner! Questo fenomeno è chiamato afantasia. Le persone con afantasia possono avere difficoltà a immaginare oggetti, volti, colori, lettere, ecc.
+
+Nel nostro progetto di ricerca sull’immaginazione mentale visiva (VMI), abbiamo costruito una batteria di test che copre diversi ambiti, incluso un test sulla vividezza delle immagini mentali. Puoi usarla per valutare la tua capacità di generare immagini mentali.
+
+Condividi questo test con amici e familiari! Speriamo che un giorno riusciremo a comprendere come il cervello crea le immagini mentali — e perché, in alcune persone, queste non si formano affatto.

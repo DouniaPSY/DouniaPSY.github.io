@@ -1,6 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+
+{% assign main_post = site.posts | where: "slug", "battery" | first %}
+
+<h1>{{ main_post.title }}</h1>
+<p><em>{{ main_post.date | date: "%d %B %Y" }}</em></p>
+{{ main_post.content }}
